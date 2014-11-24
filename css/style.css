@@ -158,7 +158,9 @@
 
 	#wrapper
 	{
+        background-image: url(../images/fulls/Camp-Nou-Barcelona-Stadium-Wallpaper-660x330.jpg);
 		position: relative;
+        background-size: cover;
 		z-index: 1;
 	}
 	
@@ -168,6 +170,7 @@
 
 	#main
 	{
+        
 	}
 	
 /*********************************************************************************/
@@ -176,9 +179,10 @@
 
 	#header
 	{
-		position: relative;
-        background-image: url(../images/fulls/headerimage.jpg)
+		position: fixed;
+        background-image: url(../images/fulls/headerimage.jpg);
 		cursor: default;
+        background-size: cover;
 	}
 	
 		#header p
