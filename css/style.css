@@ -334,3 +334,21 @@
 
 * html #menu             { zoom: 1; } /* IE6 */
 *:first-child+html #menu { zoom: 1; } /* IE7 */
+
+
+#T1
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+#content
+{
+font-size: 25px;
+background-size: cover;
+}
+s
+{
+    background-image: url(../images/fulls/Camp-Nou-Barcelona-Stadium-Wallpaper-660x330.jpg);
+}
